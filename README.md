@@ -4,9 +4,9 @@ Proyectos de **ingeniería industrial** y **datos / IA aplicada**. Cada carpeta 
 
 > Engineering and data/AI projects. Each folder includes its own README with context, tools and outcomes.
 
-## 🎓 Certificaciones
+## Certificaciones
 Certificados y credenciales profesionales.
-→ [`certificaciones/`](./certificaciones)
+[`certificaciones/`](./certificaciones)
 
 ---
 

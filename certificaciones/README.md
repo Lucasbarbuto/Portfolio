@@ -4,10 +4,12 @@ Certificados y credenciales profesionales, agrupados por área.
 
 ## Inteligencia Artificial
 
-| Certificación | Emisor | Año | Certificado |
+| Certificación / Especialización | Emisor | Año | Certificado |
 |---|---|---|---|
-| Agentic AI with LangChain and LangGraph | Coursera (IBM) | 2026 | [PDF](./agentic-ai-langchain-langgraph-coursera.pdf) |
-| Fundamentals of Building AI Agents | Coursera (IBM) | 2026 | [PDF](./fundamentals-building-ai-agents-coursera.pdf) |
+| **Building AI Agents and Agentic Workflows (Specialization)** | Coursera (IBM) | 2026 | [PDF](./building-ai-agents-agentic-workflows-specialization-coursera.pdf) |
+| ↳ Fundamentals of Building AI Agents | Coursera (IBM) | 2026 | [PDF](./fundamentals-building-ai-agents-coursera.pdf) |
+| ↳ Agentic AI with LangChain and LangGraph | Coursera (IBM) | 2026 | [PDF](./agentic-ai-langchain-langgraph-coursera.pdf) |
+| ↳ Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI | Coursera (IBM) | 2026 | [PDF](./agentic-ai-langgraph-crewai-autogen-beeai.pdf) |
 
 ## Programación
 

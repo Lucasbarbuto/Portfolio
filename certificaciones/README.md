@@ -19,8 +19,10 @@ Certificados y credenciales profesionales, agrupados por área.
 
 ## Datos y Herramientas
 
-| Certificación | Emisor | Año | Certificado |
+| Certificación / Especialización | Emisor | Año | Certificado |
 |---|---|---|---|
+| **Certificado Profesional de Microsoft Excel (Specialization)** | Coursera (Microsoft) | 2026 | *en curso* |
+| ↳ Excel and Copilot Fundamentals | Coursera (Microsoft) | 2026 | [PDF](./excel-copilot-fundamentals-coursera.pdf) |
 | Data Analytics Flex (Excel · SQL · Power BI) | CoderHouse | 2024 | [PNG](./data-analytics-flex-coderhouse.png) |
 
 ## Idiomas

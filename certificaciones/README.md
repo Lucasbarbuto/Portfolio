@@ -10,6 +10,7 @@ Certificados y credenciales profesionales, agrupados por área.
 | ↳ Fundamentals of Building AI Agents | Coursera (IBM) | 2026 | [PDF](./fundamentals-building-ai-agents-coursera.pdf) |
 | ↳ Agentic AI with LangChain and LangGraph | Coursera (IBM) | 2026 | [PDF](./agentic-ai-langchain-langgraph-coursera.pdf) |
 | ↳ Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI | Coursera (IBM) | 2026 | [PDF](./agentic-ai-langgraph-crewai-autogen-beeai.pdf) |
+| Claude 101 | Anthropic Academy | 2026 | [PDF](./claude-101-anthropic.pdf) |
 
 ## Programación
 
@@ -34,6 +35,6 @@ Certificados y credenciales profesionales, agrupados por área.
 
 ---
 
-*Última actualización: julio 2026*
+*Última actualización: agosto 2026*
 
 [Volver al portafolio](../README.md)

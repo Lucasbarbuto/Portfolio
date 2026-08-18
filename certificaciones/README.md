@@ -27,6 +27,14 @@ Certificados y credenciales profesionales, agrupados por área.
 | ↳ Data Cleaning and Processing with Copilot in Excel | Coursera (Microsoft) | 2026 | [PDF](./excel-data-cleaning-copilot-coursera.pdf) |
 | Data Analytics Flex (Excel · SQL · Power BI) | CoderHouse | 2024 | [PNG](./data-analytics-flex-coderhouse.png) |
 
+## Ingeniería Industrial
+
+| Certificación | Emisor | Año | Certificado |
+|---|---|---|---|
+| Industrialización de Hidrocarburos (Cátedra YPF) | Facultad de Ingeniería UNLP + YPF S.A. | 2025 | [PDF](./industrializacion-hidrocarburos-ypf-unlp.pdf) |
+
+> Asignatura de la Facultad de Ingeniería de la UNLP dictada íntegramente por profesionales en actividad de YPF, centrada en el downstream de hidrocarburos. Recorre la refinería de punta a punta: caracterización de crudos y economía de la refinación, planificación de la producción, destilación y procesos de conversión (FCC, coque, hidrocraqueo, reformado), blending, lubricantes y petroquímica, más los servicios auxiliares, el mantenimiento y la gestión ambiental. Incluyó visitas a refinería.
+
 ## Idiomas
 
 | Certificación | Emisor | Año | Certificado |

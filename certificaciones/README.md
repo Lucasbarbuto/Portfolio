@@ -7,11 +7,11 @@ Certificados y credenciales profesionales, agrupados por área.
 | Certificación / Especialización | Emisor | Período | Certificado |
 |---|---|---|---|
 | Certificación Profesional en IA Aplicada a la Industria | ITBA | desde agosto 2026 | *en curso* |
+| Claude 101 | Anthropic Academy | agosto 2026 | [PDF](./claude-101-anthropic.pdf) |
 | **Building AI Agents and Agentic Workflows (Specialization)** | Coursera (IBM) | mayo 2026 a julio 2026 | [PDF](./building-ai-agents-agentic-workflows-specialization-coursera.pdf) |
 | ↳ Fundamentals of Building AI Agents | Coursera (IBM) | 2026 | [PDF](./fundamentals-building-ai-agents-coursera.pdf) |
 | ↳ Agentic AI with LangChain and LangGraph | Coursera (IBM) | 2026 | [PDF](./agentic-ai-langchain-langgraph-coursera.pdf) |
 | ↳ Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI | Coursera (IBM) | 2026 | [PDF](./agentic-ai-langgraph-crewai-autogen-beeai.pdf) |
-| Claude 101 | Anthropic Academy | 2026 | [PDF](./claude-101-anthropic.pdf) |
 
 ## Programación
 

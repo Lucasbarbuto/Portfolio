@@ -11,6 +11,7 @@ Certificados y credenciales profesionales, agrupados por área.
 | ↳ Agentic AI with LangChain and LangGraph | Coursera (IBM) | mayo 2026 a junio 2026 | [PDF](./agentic-ai-langchain-langgraph-coursera.pdf) |
 | ↳ Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI | Coursera (IBM) | julio 2026 | [PDF](./agentic-ai-langgraph-crewai-autogen-beeai.pdf) |
 | Claude 101 | Anthropic Academy | 2026 | [PDF](./claude-101-anthropic.pdf) |
+| Certificación Profesional en IA Aplicada a la Industria | ITBA | desde agosto 2026 | *en curso* |
 
 ## Programación
 
@@ -32,6 +33,7 @@ Certificados y credenciales profesionales, agrupados por área.
 
 | Certificación | Emisor | Período | Certificado |
 |---|---|---|---|
+| Experto Universitario en Lean Six Sigma Green Belt | UTN FRBA | desde julio 2026 | *en curso* |
 | Industrialización de Hidrocarburos (Cátedra YPF) | Facultad de Ingeniería UNLP + YPF S.A. | abril 2025 a diciembre 2025 | [PDF](./industrializacion-hidrocarburos-ypf-unlp.pdf) |
 
 > Asignatura de la Facultad de Ingeniería de la UNLP dictada íntegramente por profesionales en actividad de YPF, centrada en el downstream de hidrocarburos. Recorre la refinería de punta a punta: caracterización de crudos y economía de la refinación, planificación de la producción, destilación y procesos de conversión (FCC, coque, hidrocraqueo, reformado), blending, lubricantes y petroquímica, más los servicios auxiliares, el mantenimiento y la gestión ambiental. Incluyó visitas a refinería.

@@ -38,6 +38,13 @@ Certificados y credenciales profesionales, agrupados por área.
 
 > Asignatura de la Facultad de Ingeniería de la UNLP dictada íntegramente por profesionales en actividad de YPF, centrada en el downstream de hidrocarburos. Recorre la refinería de punta a punta: caracterización de crudos y economía de la refinación, planificación de la producción, destilación y procesos de conversión (FCC, coque, hidrocraqueo, reformado), blending, lubricantes y petroquímica, más los servicios auxiliares, el mantenimiento y la gestión ambiental. Incluyó visitas a refinería.
 
+## Congresos
+
+| Congreso | Organizador | Fecha | Certificado |
+|---|---|---|---|
+| XXII Congreso Argentino de Estudiantes de Ingeniería Industrial (CAEII Jujuy 2024), asistente | AArEII | 8 a 11 de agosto 2024 | [PDF](./caeii-xxii-2024-jujuy-aareii.pdf) |
+| XXI Congreso Argentino de Estudiantes de Ingeniería Industrial (CAEII Mar del Plata 2023), asistente | AArEII | 24 a 27 de agosto 2023 | [PDF](./caeii-xxi-2023-mar-del-plata-aareii.pdf) |
+
 ## Idiomas
 
 | Certificación | Emisor | Año | Certificado |

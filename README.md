@@ -8,6 +8,7 @@ Proyectos de **ingeniería industrial** y **datos / IA aplicada**. Cada carpeta 
 Proyectos de análisis y automatización de datos.
 - [`excel-attendance-tracker/`](./datos-ia/excel-attendance-tracker) — tracker de asistencia con Excel + Copilot (VLOOKUP/XLOOKUP, SUMIF, PivotTables, formato condicional)
 - [`excel-mobility-sales-analysis/`](./datos-ia/excel-mobility-sales-analysis) — limpieza y análisis de un dataset de ventas global (deduplicación, multi-moneda → EUR, unidades métricas, 6 PivotTables + dashboard)
+- [`excel-event-management-tool/`](./datos-ia/excel-event-management-tool), herramienta de gestión de eventos en Excel con VBA (formulario de registro, previsión con FORECAST.ETS, Goal Seek, tablero interactivo con botón de actualización)
 
 ## Certificaciones
 Certificados y credenciales profesionales.

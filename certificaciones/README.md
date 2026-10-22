@@ -34,10 +34,13 @@ Certificados y credenciales profesionales, agrupados por área.
 
 | Certificación | Emisor | Período | Certificado |
 |---|---|---|---|
+| Energías renovables | Fundación YPF | octubre 2026 | [PDF](./energias-renovables-fundacion-ypf.pdf) |
 | Experto Universitario en Lean Six Sigma Green Belt | UTN FRBA | desde julio 2026 | *en curso* |
 | Industrialización de Hidrocarburos (Cátedra YPF) | Facultad de Ingeniería UNLP + YPF S.A. | abril 2025 a diciembre 2025 | [PDF](./industrializacion-hidrocarburos-ypf-unlp.pdf) |
 
-> Asignatura de la Facultad de Ingeniería de la UNLP dictada íntegramente por profesionales en actividad de YPF, centrada en el downstream de hidrocarburos. Recorre la refinería de punta a punta: caracterización de crudos y economía de la refinación, planificación de la producción, destilación y procesos de conversión (FCC, coque, hidrocraqueo, reformado), blending, lubricantes y petroquímica, más los servicios auxiliares, el mantenimiento y la gestión ambiental. Incluyó visitas a refinería.
+> **Energías renovables:** curso virtual de Fundación YPF (16 horas) sobre generación de energía renovable para autoconsumo e inyección de excedentes a la red. Recorre los conceptos de energía y electricidad, la generación distribuida (Ley 27.424) y la eficiencia energética; los sistemas solares fotovoltaicos on-grid y off-grid; la energía eólica (recurso, emplazamiento y tipos de aerogeneradores), y los sistemas solares térmicos, con el dimensionamiento y la instalación de un sistema para agua caliente sanitaria.
+
+> **Industrialización de Hidrocarburos:** asignatura de la Facultad de Ingeniería de la UNLP dictada íntegramente por profesionales en actividad de YPF, centrada en el downstream de hidrocarburos. Recorre la refinería de punta a punta: caracterización de crudos y economía de la refinación, planificación de la producción, destilación y procesos de conversión (FCC, coque, hidrocraqueo, reformado), blending, lubricantes y petroquímica, más los servicios auxiliares, el mantenimiento y la gestión ambiental. Incluyó visitas a refinería.
 
 ## Congresos
 
